@@ -1,2 +1,1 @@
-# PowerBI
-This is powerBI end to end project
+Data Analyst
